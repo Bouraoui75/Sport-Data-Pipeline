@@ -66,7 +66,7 @@ Services disponibles :
 | Service | Port |
 |---|---|
 | PostgreSQL | 5433 |
-| Kestra | 9000 |
+| Kestra | 8080 |
 | dbt Docs | 4080 |
 
 ---
@@ -84,7 +84,7 @@ Kestra est utilisé pour orchestrer le pipeline de données :
 Interface web :
 
 ```text
-http://localhost:9000
+http://localhost:8080
 ```
 
 ---
